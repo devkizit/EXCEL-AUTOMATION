@@ -1,2 +1,2 @@
 # EXCEL-AUTOMATION
- A python application that processe excel spreadsheet in under a second
+ A python application that processes excel spreadsheet in under a second
